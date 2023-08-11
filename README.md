@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6WXksVN3)
+# Password Manager
+This is a password manager application, made using Python.
+
+No need to remember your each and every password anymore, all you need is just remember the master password of
+your account, and you can access all of your passwords in a single place. You can also generate strong passwords for
+your accounts and keep your accounts safe.
+
+## Attribution:
+The images and the custom ttk theme used in this application is not owned by me.
+
+These are the respective owners of the assets used:  
+Images: <a href='https://www.freepik.com/vectors/key'>Key vector created by stories - www.freepik.com </a>  
+Custom ttk theme: https://github.com/Proxlight/Create
